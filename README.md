@@ -1,2 +1,2 @@
 # Social-Repair-Shop
-Web site for a sustainability CIc
+Web site for a sustainability CIC
